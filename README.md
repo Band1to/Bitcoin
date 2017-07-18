@@ -1,2 +1,2 @@
 # Bitcoin
-Bitcoin, LiteCoin
+Bitcoin
